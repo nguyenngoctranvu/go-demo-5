@@ -14,7 +14,7 @@ pipeline {
     }      
   }
   environment {
-    image = "vfarcic/go-demo-5"
+    image = "victorvu/go-demo-5"
     project = "go-demo-5"
     domain = "34.210.146.155.nip.io"
     cmAddr = "cm.34.210.146.155.nip.io"
