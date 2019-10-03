@@ -16,7 +16,7 @@ pipeline {
   environment {
     image = "victorvu/go-demo-5"
     project = "go-demo-5"
-    domain = "go-demo-5.52.74.16.177.nip.io"
+    domain = "52.74.16.177.nip.io"
     cmAddr = "cm.52.74.16.177.nip.io"
   }
   stages {
